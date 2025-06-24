@@ -1,21 +1,23 @@
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white;">
+<div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 30px; border-radius: 15px; color: #fff; max-width: 800px; margin: auto; box-shadow: 0 0 15px rgba(0,0,0,0.3);">
 
-# 💫 About Me:
-## 👋 Hi, I'm <b>Bokul Kumar</b>  
+<h1>💫 About Me</h1>
+<h2>👋 Hi, I'm <b>Bokul Kumar</b></h2>
 
-🛠️ I’m currently working on modern and responsive web projects  
-🤝 I’m looking to collaborate on full-stack web apps and creative design projects  
-🙌 I’m looking for help with complex API integrations and performance optimization  
-🌱 I’m currently learning advanced backend development and scalable deployment strategies  
+<p style="font-size: 16px; line-height: 1.6; max-width: 600px; margin: auto;">
+🛠️ I’m currently working on <b>modern and responsive web projects</b> <br>
+🤝 I’m looking to collaborate on <b>full-stack web apps</b> and <b>creative design projects</b> <br>
+🙌 I’m looking for help with <b>complex API integrations</b> and <b>performance optimization</b> <br>
+🌱 I’m currently learning <b>advanced backend development</b> and <b>scalable deployment strategies</b> <br><br>
 
-💬 Ask me about:  
-🌐 Frontend: HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS  
-🔧 Backend & DB: Node.js, Express.js, Firebase, MongoDB  
-🌍 CMS & Platforms: WordPress, Shopify  
-🎨 UI/UX & Design: Adobe Illustrator, Photoshop, Figma, Adobe XD, Pixo  
-⚙️ Tools: Git, GitHub, VS Code, Netlify, Vercel, Canva  
+💬 <b>Ask me about:</b><br>
+🌐 <b>Frontend:</b> HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS <br>
+🔧 <b>Backend & DB:</b> Node.js, Express.js, Firebase, MongoDB <br>
+🌍 <b>CMS & Platforms:</b> WordPress, Shopify <br>
+🎨 <b>UI/UX & Design:</b> Adobe Illustrator, Photoshop, Figma, Adobe XD, Pixo <br>
+⚙️ <b>Tools:</b> Git, GitHub, VS Code, Netlify, Vercel, Canva <br><br>
 
-⚡ Fun fact: I mix code and creativity—web development and graphic design are both my playgrounds! 🎯  
+⚡ <b>Fun fact:</b> I mix code and creativity — <i>web development and graphic design are both my playgrounds!</i> 🎯
+</p>
 
 </div>
 
