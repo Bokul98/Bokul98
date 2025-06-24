@@ -1,5 +1,20 @@
+<!-- Banner Style Background -->
+<img src="https://i.imgur.com/3ZQ3Z5L.png" alt="Banner" width="100%" />
+
 # 💫 About Me:
-## 👋 Hi, I'm **Bokul Kumar**<br><br>🛠️ I’m currently working on modern and responsive web projects  <br>🤝 I’m looking to collaborate on full-stack web apps and creative design projects  <br>🙌 I’m looking for help with complex API integrations and performance optimization  <br>🌱 I’m currently learning advanced backend development and scalable deployment strategies  <br>💬 Ask me about:<br><br>- 🌐 Frontend: HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS  <br>- 🔧 Backend & DB: Firebase, MongoDB  <br>- 🌍 CMS & Platforms: WordPress, Shopify  <br>- 🎨 UI/UX & Design: Adobe Illustrator, Photoshop, Figma, Adobe XD, Pixo  <br>- ⚙️ Tools: Git, GitHub, VS Code, Netlify, Vercel, Canva  <br><br>⚡ Fun fact: I mix code and creativity—web development and graphic design are both my playgrounds! 🎯  <br>
+## 👋 Hi, I'm **Bokul Kumar**  
+🛠️ I’m currently working on modern and responsive web projects  
+🤝 I’m looking to collaborate on full-stack web apps and creative design projects  
+🙌 I’m looking for help with complex API integrations and performance optimization  
+🌱 I’m currently learning advanced backend development and scalable deployment strategies  
+💬 Ask me about:  
+- 🌐 Frontend: HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS  
+- 🔧 Backend & DB: Node.js, Express.js, Firebase, MongoDB  
+- 🌍 CMS & Platforms: WordPress, Shopify  
+- 🎨 UI/UX & Design: Adobe Illustrator, Photoshop, Figma, Adobe XD, Pixo  
+- ⚙️ Tools: Git, GitHub, VS Code, Netlify, Vercel, Canva  
+
+⚡ Fun fact: I mix code and creativity—web development and graphic design are both my playgrounds! 🎯
 
 
 ## 🌐 Socials:
