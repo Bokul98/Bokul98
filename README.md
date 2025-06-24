@@ -1,9 +1,10 @@
-<div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 30px; border-radius: 15px; color: #fff; max-width: 800px; margin: auto; box-shadow: 0 0 15px rgba(0,0,0,0.3);">
+<div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 35px; border: 3px solid #00f5c3; border-radius: 20px; color: #fff; max-width: 850px; margin: 20px auto; box-shadow: 0 0 25px rgba(0,255,200,0.5); font-size: 18px; line-height: 1.8;">
 
-<h1>💫 About Me</h1>
-<h2>👋 Hi, I'm <b>Bokul Kumar</b></h2>
+<h1 style="font-size: 28px;">💫 About Me</h1>
+<h2 style="font-size: 24px;">👋 Hi, I'm <b>Bokul Kumar</b></h2>
 
-<p style="font-size: 16px; line-height: 1.6; max-width: 600px; margin: auto;">
+<p style="max-width: 700px; margin: auto;">
+
 🛠️ I’m currently working on <b>modern and responsive web projects</b> <br>
 🤝 I’m looking to collaborate on <b>full-stack web apps</b> and <b>creative design projects</b> <br>
 🙌 I’m looking for help with <b>complex API integrations</b> and <b>performance optimization</b> <br>
@@ -17,8 +18,8 @@
 ⚙️ <b>Tools:</b> Git, GitHub, VS Code, Netlify, Vercel, Canva <br><br>
 
 ⚡ <b>Fun fact:</b> I mix code and creativity — <i>web development and graphic design are both my playgrounds!</i> 🎯
-</p>
 
+</p>
 </div>
 
 ## 🌐 Socials:
