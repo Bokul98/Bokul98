@@ -1,21 +1,23 @@
-<!-- Banner Style Background -->
-<img src="https://i.imgur.com/3ZQ3Z5L.png" alt="Banner" width="100%" />
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white;">
 
 # 💫 About Me:
-## 👋 Hi, I'm **Bokul Kumar**  
+## 👋 Hi, I'm <b>Bokul Kumar</b>  
+
 🛠️ I’m currently working on modern and responsive web projects  
 🤝 I’m looking to collaborate on full-stack web apps and creative design projects  
 🙌 I’m looking for help with complex API integrations and performance optimization  
 🌱 I’m currently learning advanced backend development and scalable deployment strategies  
+
 💬 Ask me about:  
-- 🌐 Frontend: HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS  
-- 🔧 Backend & DB: Node.js, Express.js, Firebase, MongoDB  
-- 🌍 CMS & Platforms: WordPress, Shopify  
-- 🎨 UI/UX & Design: Adobe Illustrator, Photoshop, Figma, Adobe XD, Pixo  
-- ⚙️ Tools: Git, GitHub, VS Code, Netlify, Vercel, Canva  
+🌐 Frontend: HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS  
+🔧 Backend & DB: Node.js, Express.js, Firebase, MongoDB  
+🌍 CMS & Platforms: WordPress, Shopify  
+🎨 UI/UX & Design: Adobe Illustrator, Photoshop, Figma, Adobe XD, Pixo  
+⚙️ Tools: Git, GitHub, VS Code, Netlify, Vercel, Canva  
 
-⚡ Fun fact: I mix code and creativity—web development and graphic design are both my playgrounds! 🎯
+⚡ Fun fact: I mix code and creativity—web development and graphic design are both my playgrounds! 🎯  
 
+</div>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/bokulsorkar96) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/6hMd8fsz) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bokuldeveloper70) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bokul_developer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bokul-kumar-badyakar-677369191/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@bokul_developer) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/bokul_developer) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23569795) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Bokuldeveloper) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@bokulsorkar2052) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Bokul-Sorkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bokulsorkar96@gmail.com) 
