@@ -1,3 +1,6 @@
+<!--Banner-->
+![Suhaib's Banner Image](./banner.jpg)
+
 <div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 35px; border: 3px solid #00f5c3; border-radius: 20px; color: #fff; max-width: 850px; margin: 20px auto; box-shadow: 0 0 25px rgba(0,255,200,0.5); font-size: 18px; line-height: 1.8;">
 
 <h1 style="font-size: 28px;">💫 About Me</h1>
